@@ -1,0 +1,12 @@
+済	優先度	ページタイトル	URL	概要	コメント
+*	A	TensorFlow, Kerasの基本的な使い方	https://note.nkmk.me/python-tensorflow-keras-basics/	hoge	これを読めば必要なことは大体書いてある．実際モデル実装に使うのはsubclassingパターンになりそう
+	A	エキスパートのための TensorFlow 2.0 入門	https://www.tensorflow.org/tutorials/quickstart/advanced	subclassingパターンでtrain loop を自分で実装する場合のチュートリアル	hoge
+-	A	Tensorflow公式ドキュメント	https://www.tensorflow.org/	hoge	
+hoge
+-	A	Tensorflowチュートリアル	https://www.tensorflow.org/tutorials	hoge	hoge
+-	A	Tensorflowガイド	https://www.tensorflow.org/guide	hoge	hoge
+-	A	keras公式ドキュメント	https://keras.io/ja/	hoge	hoge
+-	B	kerasレイヤー一覧	https://www.tensorflow.org/api_docs/python/tf/keras/layers	hoge	hoge
+-	B	keras optimizer一覧	https://keras.io/ja/optimizers/	hoge	hoge
+-	B	keras loss関数一覧	https://keras.io/ja/losses/	hoge	hoge
+-	B	keras メトリクス一覧	https://keras.io/ja/metrics/	hoge	hoge
